@@ -1,5 +1,5 @@
 // Code by MrDaveDev
-// Feel free to use this, with credit.
+// Feel free to use this, without credit.
 
 using System;
 using System.Collections;
